@@ -10,5 +10,12 @@
     android:background="#eee"
     tools:context="com.fearless.loadsample.MainActivity">
 
+    <TextView
+        android:id="@+id/userName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:textColor="@color/colorAccent"
+        />
 
 </RelativeLayout>
